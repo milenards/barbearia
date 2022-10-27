@@ -2,3 +2,18 @@ div h1{
     font-size: 30px;
     color: brown;
 }
+.banner{
+        max-width:100%;
+        max-height:100%;
+        width: auto;
+        height: auto;
+}
+.servicos{
+    text-align: center;
+}
+.imagem{
+    max-width:80%;
+    max-height:80%;
+    width: auto;
+    height: auto;
+}
